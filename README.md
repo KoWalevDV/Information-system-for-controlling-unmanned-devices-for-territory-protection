@@ -2,7 +2,7 @@
 ## The object of the study is the security management process, which includes the functions of controlling, monitoring and analyzing data from various sensors mounted on the UAV. 
 The project was implemented using Qt 6.6.3 framework and postgresql DBMS
 ## Content:
-1)Dokumentatsia_dlya_polzovateley.docx - user manual
+1)Dokumentatsia_dlya_polzovateley.docx - user manual /n
 2)Dokumentatsia_dlya_razrabotchika.docx - documentation for developer
 3)ISADBDCreate.sql - database creation script
 4)ISADBDSTARTDATA.sql - script for filling database with test data
